@@ -1,8 +1,7 @@
 # Praktikum Kecerdasan Buatan Pertemuan 6 materi Jaringan Syaraf Tiruan (JST) – Perceptron & Backpropagation
-
-## Author
-**NIM:** HID024099  
+ 
 **Nama:** LATIFANIKA NURAFWI  
+**NIM:** HID024099 
 
 - **Perceptron** untuk menyelesaikan masalah logika **OR**
 - **Backpropagation** untuk menyelesaikan masalah logika **XOR**

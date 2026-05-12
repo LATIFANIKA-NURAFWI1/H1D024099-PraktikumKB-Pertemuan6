@@ -1,8 +1,8 @@
 
 # Praktikum Kecerdasan Buatan Pertemuan 6 materi Jaringan Syaraf Tiruan (JST) – Perceptron & Backpropagation
   
-**Nama:** Latifanika Nurafwi 
-**NIM:** H1D024099
+**Nama**: LATIFANIKA NURAFWI 
+**NIM** HID024099
 
 - **Perceptron** untuk menyelesaikan masalah logika **OR**
 - **Backpropagation** untuk menyelesaikan masalah logika **XOR**
@@ -19,7 +19,7 @@ Algoritma ini mampu menyelesaikan masalah **non-linear** seperti XOR.
 
 ---
 
-## Struktur Direktori
+## Struktur Folder
 
 ```
 H1D024099-PraktikumKB-Pertemuan6/
